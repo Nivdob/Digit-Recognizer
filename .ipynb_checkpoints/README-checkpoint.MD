@@ -3,11 +3,6 @@ By: Niv Dobzinski (PhD)
 
 This repository contains a complete solution for the Kaggle competition "Digit Recognizer" using Convolutional Neural Networks (CNNs) with TensorFlow and Keras. The solution includes data preprocessing, data augmentation, hyperparameter tuning, model training, evaluation, and submission preparation.
 
-### Challenge
-In this competition, the goal was to correctly identify digits from a dataset of tens of thousands of handwritten images.
-
-### Practice Skills
-
 ## Key Steps in the Process:
 ### Data Preprocessing:
 - Handling missing values.
